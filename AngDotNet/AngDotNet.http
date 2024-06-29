@@ -1,0 +1,6 @@
+@AngDotNet_HostAddress = http://localhost:5008
+
+GET {{AngDotNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

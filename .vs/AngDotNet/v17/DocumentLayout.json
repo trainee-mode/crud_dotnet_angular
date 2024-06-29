@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\AngDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B54A4DD-D21C-4527-8542-E96E8A4AB274}|AngDotNet\\AngDotNet.csproj|c:\\users\\dell\\source\\repos\\angdotnet\\angdotnet\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B54A4DD-D21C-4527-8542-E96E8A4AB274}|AngDotNet\\AngDotNet.csproj|solutionrelative:angdotnet\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B54A4DD-D21C-4527-8542-E96E8A4AB274}|AngDotNet\\AngDotNet.csproj|c:\\users\\dell\\source\\repos\\angdotnet\\angdotnet\\data\\contactlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B54A4DD-D21C-4527-8542-E96E8A4AB274}|AngDotNet\\AngDotNet.csproj|solutionrelative:angdotnet\\data\\contactlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B54A4DD-D21C-4527-8542-E96E8A4AB274}|AngDotNet\\AngDotNet.csproj|c:\\users\\dell\\source\\repos\\angdotnet\\angdotnet\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B54A4DD-D21C-4527-8542-E96E8A4AB274}|AngDotNet\\AngDotNet.csproj|solutionrelative:angdotnet\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B54A4DD-D21C-4527-8542-E96E8A4AB274}|AngDotNet\\AngDotNet.csproj|c:\\users\\dell\\source\\repos\\angdotnet\\angdotnet\\models\\updatecontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B54A4DD-D21C-4527-8542-E96E8A4AB274}|AngDotNet\\AngDotNet.csproj|solutionrelative:angdotnet\\models\\updatecontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B54A4DD-D21C-4527-8542-E96E8A4AB274}|AngDotNet\\AngDotNet.csproj|c:\\users\\dell\\source\\repos\\angdotnet\\angdotnet\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B54A4DD-D21C-4527-8542-E96E8A4AB274}|AngDotNet\\AngDotNet.csproj|solutionrelative:angdotnet\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateContactRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AngDotNet\\AngDotNet\\Models\\UpdateContactRequestDTO.cs",
+              "RelativeDocumentMoniker": "AngDotNet\\Models\\UpdateContactRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AngDotNet\\AngDotNet\\Models\\UpdateContactRequestDTO.cs",
+              "RelativeToolTip": "AngDotNet\\Models\\UpdateContactRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T21:41:04.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AngDotNet\\AngDotNet\\Models\\Domain\\Contact.cs",
+              "RelativeDocumentMoniker": "AngDotNet\\Models\\Domain\\Contact.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AngDotNet\\AngDotNet\\Models\\Domain\\Contact.cs",
+              "RelativeToolTip": "AngDotNet\\Models\\Domain\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T21:41:02.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactlyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AngDotNet\\AngDotNet\\Data\\ContactlyDbContext.cs",
+              "RelativeDocumentMoniker": "AngDotNet\\Data\\ContactlyDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AngDotNet\\AngDotNet\\Data\\ContactlyDbContext.cs",
+              "RelativeToolTip": "AngDotNet\\Data\\ContactlyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T21:40:59.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AngDotNet\\AngDotNet\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "AngDotNet\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AngDotNet\\AngDotNet\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "AngDotNet\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAcwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T21:40:56.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddContactRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AngDotNet\\AngDotNet\\Models\\AddContactRequestDTO.cs",
+              "RelativeDocumentMoniker": "AngDotNet\\Models\\AddContactRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AngDotNet\\AngDotNet\\Models\\AddContactRequestDTO.cs",
+              "RelativeToolTip": "AngDotNet\\Models\\AddContactRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T21:41:03.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
